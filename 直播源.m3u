@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:-1,CH01 東森新聞HD
+http://61.222.191.241/live/ch01/playlist.m3u8
+#EXTINF:-1,CH02 東森戲劇台
+http://61.222.191.241/live/ch02/playlist.m3u8
+#EXTINF:-1,CH03 東森綜合台
+http://61.222.191.241/live/ch03/index.m3u8
+#EXTINF:-1,CH04 東森幼幼台
+http://61.222.191.241/live/ch04/index.m3u8
+#EXTINF:-1,CH05 FOX體育2台
+http://61.222.191.241/live/ch05/index.m3u8
+
+#EXTINF:-1,CH06 緯來戲劇台
+http://61.216.79.193/live/ch06/playlist.m3u8
+#EXTINF:-1,CH07 緯來體育台
+http://61.216.79.193/live/ch07/playlist.m3u8
+#EXTINF:-1,CH08 緯來日本台
+http://61.216.79.193/live/ch08/playlist.m3u8
+#EXTINF:-1,CH09 緯來綜合台
+http://61.216.79.193/live/ch09/playlist.m3u8
+#EXTINF:-1,CH10 緯來育樂台
+http://61.216.79.193/live/ch10/playlist.m3u8
+
+#EXTINF:-1,CH11 HBO
+http://61.222.191.25/live/ch11/playlist.m3u8
+#EXTINF:-1,CH12 FOX體育
+http://61.222.191.25/live/ch12/playlist.m3u8
+#EXTINF:-1,CH13 日本NHK
+http://61.222.191.25/live/ch13/playlist.m3u8
+#EXTINF:-1,CH14 非凡新聞
+http://61.222.191.25/live/ch14/playlist.m3u8
+#EXTINF:-1,CH15 中天新聞
+http://61.222.191.25/live/ch15/playlist.m3u8
+
+#EXTINF:-1,CH23 GTV八大第1台
+http://61.216.131.1/live/ch23/playlist.m3u8
+#EXTINF:-1,CH24 GTV八大戲劇
+http://61.216.131.1/live/ch24/playlist.m3u8
+#EXTINF:-1,CH25 GTV八大綜合
+http://61.216.131.1/live/ch25/playlist.m3u8
+
+#EXTINF:-1,CH31 緯來電影台
+http://61.216.131.133/live/ch31/playlist.m3u8
+#EXTINF:-1,CH32 CINEMAX
+http://61.216.131.133/live/ch32/playlist.m3u8
+
+#EXTINF:-1,CH105 博斯無限
+http://61.218.59.181/live/ch105/index.m3u8
+#EXTINF:-1,CH106 博斯足球
+http://61.218.59.181/live/ch106/index.m3u8
+#EXTINF:-1,CH107 亞洲旅遊台
+http://61.218.59.181/live/ch107/index.m3u8
+#EXTINF:-1,CH108 龍華電影台
+http://61.218.59.181/live/ch108/index.m3u8
+#EXTINF:-1,CH109 龍華偶像
+http://61.218.59.181/live/ch109/index.m3u8
+
+#EXTINF:-1,三立台灣台
+http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/b4fdhashjjd.m3u8
+#EXTINF:-1,三立都會台
+http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
+#EXTINF:-1,衛視中文台
+http://150.107.28.90/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+#EXTINF:-1,壹電視新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1,壹電視綜合
+http://207.244.92.176:5000/nl.m3u8?id=YDSZH&ngs=589840e400039cdd15a13477bdeaadce&nn_user_id=Q8KKOQGE3&ndi=9A-7A-92-1E-61-29&nal=01e44098580607c97bacffac6e5338e8a42dbe5e5208c0
+#EXTINF:-1,台視HD
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop3/cht/hamitv-live046/hls-ae-mobile/128_4.m3u8?token=TBy_LfKfpvUpozZSiLLlpg&expires=1486482688
+#EXTINF:-1,台視2台HD
+http://199.229.252.131:1935/live/mp4:CC-DF556BB2-4ACC-296B-99A4-92C1E00138B5-53151/chunklist.m3u8
+#EXTINF:-1,中視HD
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live48/hls-ae-tv/index.m3u8?token=cydBQjx7HubIPGvpqWHKjg&expires=1486507775
+#EXTINF:-1,華視HD
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live51/hls-ae-tv/96_5.m3u8?token=kIuRCVDqIm-e0dhgPZVBkA&expires=1486484987
+#EXTINF:-1,民視
+http://45.32.58.12/gtk/tv052.m3u8
+#EXTINF:-1,民視HD
+http://199.229.252.131:1935/live/mp4:CC-341CBBD5-C749-F945-1B34-B3018D73FE06-53147/chunklist.m3u8
+#EXTINF:-1,民視HD
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop1/cht/hamitv-live09/hls-ae-tv/index.m3u8?token=ZWWDO7X9wL-0KTAPCctHNQ&expires=1486507299
+#EXTINF:-1,CN卡通台
+http://61.222.191.61/live/ch26/playlist.m3u8
+#EXTINF:-1,公視3HD
+http://199.229.252.131:1935/live/mp4:CC-F3C7758B-5422-3764-0640-F305B4841A4B-12144/chunklist.m3u8
+#EXTINF:-1,TVBS歡樂台
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live42/hls-ae-tv/index.m3u8?token=hfyh9RWK0JPNOHvFEhlLjw&expires=1486464163
+#EXTINF:-1,非凡商業台
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop1/cht/hamitv-live013/hls-ae-tv/index.m3u8?token=UdvtrdrRidOyyTsUc7oDHA&expires=1486464307
+#EXTINF:-1,TVBS新聞台
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live41/hls-ae-tv/index.m3u8?token=QJC9e-OC3G8bY5QphzKTqw&expires=1486464377
+#EXTINF:-1,TVBS HD
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live40/hls-ae-tv/index.m3u8?token=UInRrzPnLhLSnkEXZDwtyQ&expires=1486464233
+#EXTINF:-1,ELTA愛爾達體育台
+http://199.229.252.131:1935/live/mp4:CC-C71E9FB3-9A1A-608F-B10E-6BBA6A105B68-40422/chunklist.m3u8
+#EXTINF:-1,MOMO親子台
+http://207.244.92.178:5000/nl.m3u8?id=MOMOQZT&ngs=589732a10007bdfaa457aaaa28ccf856&nn_user_id=Q8KK0A657&ndi=9A-7A-92-1E-61-29&nal=01a13297580607220b181589a7ec1ffcfc9c45a28c5138
